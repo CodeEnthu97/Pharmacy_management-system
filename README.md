@@ -4,6 +4,6 @@ A Pharmacy management system with Gui with a database connectivity in python usi
 
 ## Screenshot
 
-![App Screenshot](image/pharmacy.png)
+![App Screenshot](image/Pharmacy.png)
 
   
